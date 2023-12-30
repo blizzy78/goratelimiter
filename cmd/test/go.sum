@@ -1,0 +1,4 @@
+github.com/blizzy78/gotimeseries v0.1.0 h1:h8ku9ANIwKSyFvUk8FngFHVjz5pkYLL8ROeOaPJkoVg=
+github.com/blizzy78/gotimeseries v0.1.0/go.mod h1:Oudrw86XYp4J9hDuhkISqUxs0V8bvd9CX1HpNAFXvkE=
+github.com/matryer/is v1.4.1 h1:55ehd8zaGABKLXQUe2awZ99BD/PTc2ls+KV/dXphgEQ=
+github.com/matryer/is v1.4.1/go.mod h1:8I/i5uYgLzgsgEloJE1U6xx5HkBQpAZvepWuujKwMRU=
